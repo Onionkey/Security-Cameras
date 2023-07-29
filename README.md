@@ -38,3 +38,13 @@
 * http://116.42.101.226:5000/webcapture.jpg?command=snap&channel=2
 * http://123.214.131.91:8000/webcapture.jpg?command=snap&channel=4
 * http://59.127.171.242/webcapture.jpg?command=snap&channel=4
+* http://mbr-cam.dyndns.org:8088/mjpg/video.mjpg
+* http://96.77.221.165:10001/#view
+* http://180.64.2.171:8000/webcapture.jpg?command=snap&channel=1?COUNTER
+* http://24.39.106.6:8000/mjpg/video.mjpg
+* http://123.193.212.39:81/webcapture.jpg?command=snap&channel=2
+* http://59.127.141.98/webcapture.jpg?command=snap&channel=1?COUNTER
+* http://73.111.190.47/mjpg/video.mjpg
+* http://113.161.46.196:8001/webcapture.jpg?command=snap&channel=1?COUNTER
+* http://185.128.153.5:8082/webcapture.jpg?command=snap&channel=1?COUNTER
+* http://217.119.27.34:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER
