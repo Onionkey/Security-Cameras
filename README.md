@@ -5,7 +5,6 @@
 -
 (Some of those links you have to keep refreshing to get updated image)
 -
-* http://45.178.72.74:8082/mjpg/video.mjpg
 * http://68.190.240.163:9000/webcapture.jpg?command=snap&channel=1
 * http://114.200.247.204:10000/webcapture.jpg?command=snap&channel=1?COUNTER
 * http://178.124.197.137:8088/webcapture.jpg?command=snap&channel=1
